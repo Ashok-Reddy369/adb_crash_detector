@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  ADB App Crash Detector
 
 **Automated Android app crash detection using pytest + pure-python-adb**
@@ -61,3 +62,7 @@ pytest tests/test_crash.py::TestAppCrashDetection::test_monkey_crash_detection -
 pytest tests/test_crash.py::test_monkey_crash_test -s --package=com.android.settings
 
 
+=======
+# adb_crash_detector
+Automate the real time Crash detection and generate Reports in both text and HTML format.
+>>>>>>> 179e12c053aa4e564c4e08b06199ea8e8314f552
