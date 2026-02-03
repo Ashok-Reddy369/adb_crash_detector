@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+
+# VS Code
+.vscode/
+
+# Test reports & logs
+reports/
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
